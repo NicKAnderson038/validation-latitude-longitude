@@ -4,7 +4,7 @@
 
 ```bash
 npm install validation-latitude-longitude
-  ||
+
 yarn add validation-latitude-longitude
 ```
 
