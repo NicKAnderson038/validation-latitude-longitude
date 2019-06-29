@@ -55,6 +55,10 @@ Invalid returns `false`
 2. `npm version` and the new version number ie: `1.0.1`
 3. `npm publish`
 
+##### \*\*\* am i still logged in?
+
+1. `npm whoami`
+
 <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" width=200>
