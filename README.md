@@ -14,8 +14,8 @@ yarn add validation-latitude-longitude
 
 ### module import
 
-```bash
-import { validationLatitudeLongitude } from './validation-latitude-longitude'
+```js
+import { validationLatitudeLongitude } from "./validation-latitude-longitude";
 ```
 
 <br>
