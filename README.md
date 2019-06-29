@@ -4,6 +4,7 @@
 
 ```bash
 npm install validation-latitude-longitude
+  ||
 yarn add validation-latitude-longitude
 ```
 
@@ -25,5 +26,5 @@ validationLatitudeLongitude.latLong(MY_LATITUDE, MY_LONGITUDE);
 
 ### Results
 
-Valid Latitude &/or Longitude will return `true`
+Valid Latitude &/or Longitude will return `true`.
 Invalid returns `false`
