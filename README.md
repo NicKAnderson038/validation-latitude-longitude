@@ -16,7 +16,7 @@ validationLatitudeLongitude.latLong(...isValidStrings); // true 🗽
 
 <br>
 
-### Results (Boolean)
+### Results 🙋
 
 1. Valid Latitude and/or Longitude returns `true`.
 2. Invalid returns `false`.
@@ -33,7 +33,9 @@ Less-than < 1.5 kilobytes
 
 <br>
 
-### Npm or Yarn installion <img class="irc_mut" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="20" height="20" data-iml="1561951820637" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAS1BMVEXLODf////IISDIHh346ur029vKMC/JKSjnr6/ZennotbXioaHJKyr03dzIJiXJLSzvy8rinZ3agYDTX17purrYdXTmrKzHGRfx1NTuo4y/AAABDElEQVR4nO3d2xGCMBRFUUQFRSGg+Oi/UhtQJh9kEpy1Czh3VgW3qiRJkiRJkiRJkiRJkiTpS8O+nIYkwPFQTmMKYt3vyqmv/114JCQkzB4hIWH+CAkJ80dISJg/QkLC/BESEuaPkDCpcL7ENb23KnzU16hez60Kz03cvfZESEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhIWLCwWxhJ8tM5TN0azffIe81t/r0yhQTCKrSrFH2vWRhJApQkSZIkSZIkSZIkSZK0/T4/OWE9ZGh4pgAAAABJRU5ErkJggg==" alt="Image result for npm svg">
+### OK! Lets Get Started 💥
+
+### Npm or Yarn installion
 
 ```bash
 npm install validation-latitude-longitude
