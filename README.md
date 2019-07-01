@@ -2,10 +2,10 @@
 
 <br>
 
-### Results
+### Results (Boolean)
 
-Valid Latitude and/or Longitude returns `true`.
-Invalid returns `false`
+1. Valid Latitude and/or Longitude returns `true`.
+2. Invalid returns `false`.
 
 #
 
@@ -29,7 +29,7 @@ yarn add validation-latitude-longitude
 
 <br>
 
-### module import
+### Import Module
 
 ```js
 import { validationLatitudeLongitude } from "validation-latitude-longitude";
@@ -37,7 +37,7 @@ import { validationLatitudeLongitude } from "validation-latitude-longitude";
 
 <br>
 
-### methods
+### Methods
 
 ```js
 validationLatitudeLongitude.latitude(MY_LATITUDE);
@@ -45,6 +45,10 @@ validationLatitudeLongitude.latitude(MY_LATITUDE);
 validationLatitudeLongitude.longitude(MY_LONGITUDE);
 
 validationLatitudeLongitude.latLong(MY_LATITUDE, MY_LONGITUDE);
+
+/* ex: ES6 */
+const geo = [MY_LATITUDE, MY_LONGITUDE];
+validationLatitudeLongitude.latLong(...geo);
 ```
 
 #
