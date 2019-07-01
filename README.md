@@ -2,6 +2,23 @@
 
 <br>
 
+### Results
+
+Valid Latitude and/or Longitude returns `true`.
+Invalid returns `false`
+
+#
+
+<br>
+
+### Size
+
+Less-than < 1.5 kilobytes
+
+#
+
+<br>
+
 ### Npm or Yarn installion
 
 ```bash
@@ -15,7 +32,7 @@ yarn add validation-latitude-longitude
 ### module import
 
 ```js
-import { validationLatitudeLongitude } from "./validation-latitude-longitude";
+import { validationLatitudeLongitude } from "validation-latitude-longitude";
 ```
 
 <br>
@@ -30,15 +47,15 @@ validationLatitudeLongitude.longitude(MY_LONGITUDE);
 validationLatitudeLongitude.latLong(MY_LATITUDE, MY_LONGITUDE);
 ```
 
-<br>
-
-### Results
-
-Valid Latitude and/or Longitude returns `true`.
-Invalid returns `false`
-
 #
 
+<br>
+<br>
+<br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" width=200>
+
+<br>
 <br>
 
 ### Working with npm packages
@@ -59,6 +76,4 @@ Invalid returns `false`
 
 1. `npm whoami`
 
-<br>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" width=200>
+#
