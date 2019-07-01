@@ -2,6 +2,20 @@
 
 <br>
 
+### What this package does?
+
+Tiny package for validating the formats of latitude & longitude strings.
+
+```js
+/* example */
+const isValidStrings = ["40.6892", "74.0445"];
+validationLatitudeLongitude.latLong(...isValidStrings); // true 🗽
+```
+
+#
+
+<br>
+
 ### Results (Boolean)
 
 1. Valid Latitude and/or Longitude returns `true`.
@@ -40,16 +54,19 @@ import { validationLatitudeLongitude } from "validation-latitude-longitude";
 ### Methods
 
 ```js
+/* Valid Latitude Format? */
 validationLatitudeLongitude.latitude(MY_LATITUDE);
 
+/* Valid Longitude Format? */
 validationLatitudeLongitude.longitude(MY_LONGITUDE);
 
+/* Valid Latitude & Longitude Formats? */
 validationLatitudeLongitude.latLong(MY_LATITUDE, MY_LONGITUDE);
-
-/* ex: ES6 */
-const geo = [MY_LATITUDE, MY_LONGITUDE];
-validationLatitudeLongitude.latLong(...geo);
 ```
+
+<br>
+
+### The End 🏝️
 
 #
 
@@ -61,6 +78,8 @@ validationLatitudeLongitude.latLong(...geo);
 
 <br>
 <br>
+
+### We could use your help! Please share your experience & code if you got a solution 🛠️to a unique problem 🚀. The community needs your support! ❤️
 
 ### Working with npm packages
 
