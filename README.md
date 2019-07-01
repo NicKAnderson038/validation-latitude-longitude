@@ -2,7 +2,7 @@
 
 <br>
 
-### What this package does?
+### What this package does? 🤔
 
 Tiny package for validating latitude & longitude string format.
 
@@ -25,7 +25,7 @@ validationLatitudeLongitude.latLong(...isValidStrings); // true 🗽
 
 <br>
 
-### Size
+### Size 🔬
 
 Less-than < 1.5 kilobytes
 
@@ -33,7 +33,7 @@ Less-than < 1.5 kilobytes
 
 <br>
 
-### Npm or Yarn installion
+### Npm or Yarn installion <img class="irc_mut" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="20" height="20" data-iml="1561951820637" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAS1BMVEXLODf////IISDIHh346ur029vKMC/JKSjnr6/ZennotbXioaHJKyr03dzIJiXJLSzvy8rinZ3agYDTX17purrYdXTmrKzHGRfx1NTuo4y/AAABDElEQVR4nO3d2xGCMBRFUUQFRSGg+Oi/UhtQJh9kEpy1Czh3VgW3qiRJkiRJkiRJkiRJkiTpS8O+nIYkwPFQTmMKYt3vyqmv/114JCQkzB4hIWH+CAkJ80dISJg/QkLC/BESEuaPkDCpcL7ENb23KnzU16hez60Kz03cvfZESEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhIWLCwWxhJ8tM5TN0azffIe81t/r0yhQTCKrSrFH2vWRhJApQkSZIkSZIkSZIkSZK0/T4/OWE9ZGh4pgAAAABJRU5ErkJggg==" alt="Image result for npm svg">
 
 ```bash
 npm install validation-latitude-longitude
@@ -43,7 +43,7 @@ yarn add validation-latitude-longitude
 
 <br>
 
-### Import Module
+### Import Module 📦
 
 ```js
 import { validationLatitudeLongitude } from "validation-latitude-longitude";
@@ -51,7 +51,7 @@ import { validationLatitudeLongitude } from "validation-latitude-longitude";
 
 <br>
 
-### Methods
+### Methods ⚙️
 
 ```js
 /* Valid Latitude Format? */
