@@ -4,7 +4,7 @@
 
 ### What this package does?
 
-Tiny package for validating the formats of latitude & longitude strings.
+Tiny package for validating latitude & longitude string format.
 
 ```js
 /* example */
