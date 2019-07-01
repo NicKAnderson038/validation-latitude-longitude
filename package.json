@@ -1,6 +1,6 @@
 {
   "name": "validation-latitude-longitude",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Validation for Longitude & Latitude",
   "main": "index.min.js",
   "licence": "MIT",
