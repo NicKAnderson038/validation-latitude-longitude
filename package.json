@@ -3,7 +3,7 @@
   "version": "1.0.8",
   "description": "Validation for Longitude & Latitude",
   "main": "index.min.js",
-  "licence": "MIT",
+  "license": "MIT",
   "keywords": [
     "latitude",
     "longitude",
