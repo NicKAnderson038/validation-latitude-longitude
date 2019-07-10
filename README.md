@@ -87,9 +87,22 @@ validationLatitudeLongitude.latLong(MY_LATITUDE, MY_LONGITUDE);
 
 ##### \*\*\* New package
 
-1. setup an npm account (if not done aleardy)
-2. `npm login`
-3. `npm publish`
+1. Setup an npm account (if not done aleardy)
+2. Create a `package.json` at application root.
+
+```json
+{
+  "name": "unique-npm-project-name",
+  "version": "1.0.0", //_begin_with_1.0.0
+  "description": "Descripton of my application",
+  "main": "index.min.js",
+  "license": "MIT", //_open_source_license!
+  "keywords": ["list", "of", "searchable", "key", "words"]
+}
+```
+
+3. `npm login`
+4. `npm publish`
 
 ##### \*\*\* update package
 
