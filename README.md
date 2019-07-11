@@ -110,13 +110,12 @@ validationLatitudeLongitude.latLong(MY_LATITUDE, MY_LONGITUDE);
 1. Push changes to your git repo
 2. `npm login`
 3. `npm version` with new number
+4. `npm publish`
 
 ```bash
-# example
+# updating version example
 npm verison 1.0.1
 ```
-
-4. `npm publish`
 
 ##### \*\*\* am i still logged in?
 
