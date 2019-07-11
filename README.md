@@ -88,7 +88,10 @@ validationLatitudeLongitude.latLong(MY_LATITUDE, MY_LONGITUDE);
 ##### \*\*\* New package
 
 1. Setup an npm account. (if not done aleardy)
-2. Create a `package.json` at application root and set version `1.0.0` to start. \*\*\* If open source, set the license to `MIT`. 🤟
+2. Create a `package.json` (snippet below) at application root and set version `1.0.0` to start. \*\*\* If open source, set the license to `MIT`. 🤟
+3. Push changes to your git repo.
+4. `npm login`
+5. `npm publish`
 
 ```json
 {
@@ -100,10 +103,6 @@ validationLatitudeLongitude.latLong(MY_LATITUDE, MY_LONGITUDE);
   "keywords": ["list", "of", "searchable", "key", "words"]
 }
 ```
-
-3. Push changes to your git repo.
-4. `npm login`
-5. `npm publish`
 
 ##### \*\*\* update package
 
